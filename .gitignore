@@ -2,3 +2,4 @@ players/*
 resources/*
 world/*
 .idea/*
+config.toml
